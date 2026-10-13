@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucas\\Desktop\\Use a cabe\u00E7a c#\\MatchGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55ED795B-3A5F-4694-B242-1AE47D5AA177}|MatchGame\\MatchGame.csproj|c:\\users\\lucas\\desktop\\use a cabe\u00E7a c#\\matchgame\\matchgame\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55ED795B-3A5F-4694-B242-1AE47D5AA177}|MatchGame\\MatchGame.csproj|solutionrelative:matchgame\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55ED795B-3A5F-4694-B242-1AE47D5AA177}|MatchGame\\MatchGame.csproj|c:\\users\\lucas\\desktop\\use a cabe\u00E7a c#\\matchgame\\matchgame\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{55ED795B-3A5F-4694-B242-1AE47D5AA177}|MatchGame\\MatchGame.csproj|solutionrelative:matchgame\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55ED795B-3A5F-4694-B242-1AE47D5AA177}|MatchGame\\MatchGame.csproj|c:\\users\\lucas\\desktop\\use a cabe\u00E7a c#\\matchgame\\matchgame\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55ED795B-3A5F-4694-B242-1AE47D5AA177}|MatchGame\\MatchGame.csproj|solutionrelative:matchgame\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55ED795B-3A5F-4694-B242-1AE47D5AA177}|MatchGame\\MatchGame.csproj|c:\\users\\lucas\\desktop\\use a cabe\u00E7a c#\\matchgame\\matchgame\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{55ED795B-3A5F-4694-B242-1AE47D5AA177}|MatchGame\\MatchGame.csproj|solutionrelative:matchgame\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 367,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Use a cabe\u00E7a c#\\MatchGame\\MatchGame\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MatchGame\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Use a cabe\u00E7a c#\\MatchGame\\MatchGame\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MatchGame\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAowD4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T15:19:04.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Use a cabe\u00E7a c#\\MatchGame\\MatchGame\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MatchGame\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Use a cabe\u00E7a c#\\MatchGame\\MatchGame\\MainWindow.xaml",
+              "RelativeToolTip": "MatchGame\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-12T15:18:49.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Use a cabe\u00E7a c#\\MatchGame\\MatchGame\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MatchGame\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Use a cabe\u00E7a c#\\MatchGame\\MatchGame\\App.xaml.cs",
+              "RelativeToolTip": "MatchGame\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T15:18:47.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Use a cabe\u00E7a c#\\MatchGame\\MatchGame\\App.xaml",
+              "RelativeDocumentMoniker": "MatchGame\\App.xaml",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Use a cabe\u00E7a c#\\MatchGame\\MatchGame\\App.xaml",
+              "RelativeToolTip": "MatchGame\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-12T15:18:42.147Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
